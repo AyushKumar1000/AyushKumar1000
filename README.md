@@ -57,7 +57,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/AyushKumar1000/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKumar1000&theme=react-dark" alt="AyushKumar1000's Contribution Graph" width="900">
 </a>
 
