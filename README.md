@@ -32,10 +32,9 @@
 <div align="center">
 <h2>Connect with Me</h2> 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/rajnkoli06/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.rajk@isu.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/raj-koli-626008318)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/koli_raj57974)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_ayush.k/?hl=en)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:2024.kayush@isu.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ayush-kumar-a623a1319/)
 
 
 
@@ -54,19 +53,19 @@
 </div>
 <h2>My contribution</h2>
 
-<img src="https://raw.githubusercontent.com/Rajkoli145/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
+<img src="https://raw.githubusercontent.com/AyushKumar1000/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKumar1000&theme=react-dark" alt="AyushKumar1000's Contribution Graph" width="900">
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkoli145&theme=solarized&utcOffset=5.3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKumar1000&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKumar1000&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKumar1000&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKumar1000&theme=solarized&utcOffset=5.3)
 
 </div>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajkoli145" alt="Rajkoli145" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar1000" alt="AyushKumar1000" /></a></p>
