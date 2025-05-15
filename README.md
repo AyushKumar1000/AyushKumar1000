@@ -53,7 +53,7 @@
 </div>
 <h2>My contribution</h2>
 
-![snake gif](https://github.com/AyushKumar1000/AyushKumar1000/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AyushKumar1000/AyushKumar1000/blob/output/github-snake-dark.svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 
