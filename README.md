@@ -61,6 +61,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKumar1000&theme=react-dark" alt="AyushKumar1000's Contribution Graph" width="900">
 </a>
 
+### 🔥 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyushKumar1000&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKumar1000&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKumar1000&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKumar1000&theme=transparent)
@@ -68,3 +73,7 @@
 
 </div>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar1000" alt="AyushKumar1000" /></a></p>
+
+### 👁️‍🗨️ Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AyushKumar1000&style=flat-square&color=blue)
