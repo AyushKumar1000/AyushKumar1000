@@ -66,10 +66,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyushKumar1000&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKumar1000&theme=solarized)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumar1000&layout=compact&theme=github_dark)](https://github.com/AyushKumar1000)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKumar1000&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKumar1000&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKumar1000&theme=solarized&utcOffset=5.3)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumar1000&layout=compact&theme=github_dark)](https://github.com/AyushKumar1000)
 
 </div>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar1000" alt="AyushKumar1000" /></a></p>
@@ -77,3 +78,5 @@
 ### 👁️‍🗨️ Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyushKumar1000&style=flat-square&color=blue)
+
+
