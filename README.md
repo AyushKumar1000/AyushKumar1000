@@ -70,7 +70,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKumar1000&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKumar1000&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKumar1000&theme=solarized&utcOffset=5.3)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumar1000&layout=compact&theme=github_dark)](https://github.com/AyushKumar1000)
+
 
 </div>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar1000" alt="AyushKumar1000" /></a></p>
